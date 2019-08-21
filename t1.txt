@@ -1,0 +1,2 @@
+#!/bin/lala
+echo "hola"
