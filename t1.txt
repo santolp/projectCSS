@@ -1,2 +1,3 @@
 #!/bin/lala
 echo "hola"
+ahora decimos adios porque es muy tarde para seguir
